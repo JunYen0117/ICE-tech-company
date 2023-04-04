@@ -88,6 +88,7 @@ const loadingSequence = async() => {
 onBeforeMount(() => {
 	loadingSequence()
 });
+
 </script>
 
 <template>
